@@ -1,0 +1,8 @@
+			Details of the Borrower and Book 
+
+Borrowed by: Shristi Poudel
+Date and Time of borrowing: 2021-09-09 23:21:03.327202
+
+		 S.N. 		 Name of the Book 		 Author
+		 1. 		A Story of Moonlight		 James Park
+		 2.		Romeo and Juleit		 William Shakespeare

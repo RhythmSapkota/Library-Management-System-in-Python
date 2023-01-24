@@ -1,0 +1,9 @@
+			Details of the Returned Book 
+
+Returned by: Shristi
+Date and Time of Returning the book: 2021-09-10 11:54:38.342528
+
+		S.N.		 Name of the Book		Cost
+		2		Romeo and Juleit			$4
+		3		A Story of Moonlight			$5
+		Fine: $20

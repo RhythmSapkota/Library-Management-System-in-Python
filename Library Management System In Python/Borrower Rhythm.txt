@@ -1,0 +1,8 @@
+			Details of the Borrower and Book 
+
+Borrowed by: Rhythm  Sapkota
+Date and Time of borrowing: 2021-09-09 16:30:21.783059
+
+		 S.N. 		 Name of the Book 		 Author
+		 1. 		A Story of Moonlight		 James Park
+		 2.		Romeo and Juleit		 William Shakespeare
